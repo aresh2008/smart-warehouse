@@ -1,0 +1,1 @@
+Explainable deterministic analytics live in backend/app/routers/core.py. They calculate stock risk and vehicle health from stored demo data.

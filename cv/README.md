@@ -1,0 +1,1 @@
+OpenCV demonstration is intentionally synthetic and labelled DEMO/SIMULATION in the UI. The API stores generated PPE events; no camera hardware or cloud service is required.
